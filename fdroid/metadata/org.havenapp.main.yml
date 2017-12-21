@@ -1,0 +1,7 @@
+AuthorName: haven-nightly
+AuthorWebSite: https://github.com/guardianproject
+Categories: [nightly]
+Description: Nightly build of guardianproject/haven
+IssueTracker: https://github.com/guardianproject/haven/issues
+SourceCode: https://github.com/guardianproject/haven
+Summary: Nightly build of guardianproject/haven
