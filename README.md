@@ -1,6 +1,6 @@
 
 # guardianproject/haven-nightly
 
-[![https://raw.githubusercontent.com/guardianproject/haven-nightly/dev_camera_fixes/fdroid/repo](icon.png)](https://raw.githubusercontent.com/guardianproject/haven-nightly/dev_camera_fixes/fdroid/repo)
+[![https://raw.githubusercontent.com/guardianproject/haven-nightly/master/fdroid/repo](icon.png)](https://raw.githubusercontent.com/guardianproject/haven-nightly/master/fdroid/repo)
 
-Last updated: 2019-02-10 15:18:17 UTC
+Last updated: 2019-02-10 15:20:35 UTC
